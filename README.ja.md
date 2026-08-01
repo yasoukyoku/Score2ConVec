@@ -2,6 +2,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **日本語**
 
+公式サイト: https://utaisynthesizer.net
+
 > ContentVec ベースの SVC 音声モデルに、**譜面から歌う**能力を与えます。
 > 譜面（MIDI ノート + 歌詞）→ **ContentVec** → so-vits-svc 4.0 / 4.1 または RVC → 歌声。
 
