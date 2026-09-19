@@ -166,7 +166,7 @@ Japanese singing databases (**kiritan_singing, PJS, Ofuton-P, Oniku, Itako, Nats
 released for **non-commercial / research use only** — for example, **M4Singer is CC BY-NC-SA 4.0**. The released
 weights are **not** an MIT relicensing of that data. Review each dataset's own license before any commercial use.
 
-Credits required by the Japanese databases' terms (verbatim): 『©SSS』 · 『歌声DB制作:アマノケイ 音声提供者: 霧野蒼太』 · 『DB制作:おふとんP』 · 『御丹宮くるみ歌声データべース』 — for 東北きりたん歌唱データベース / 東北イタコ歌唱データベース (SSS LLC), 夏目悠李/男性歌声データベース (ATSUYA), おふとんP歌声DB and 御丹宮くるみ歌声データべース; PJS (Koguchi & Takamichi; lyrics from 声優統計コーパス, 日本声優統計学会) is CC BY-SA 4.0.
+Credits required by the Japanese databases' terms (verbatim): 『©SSS』 · 『歌声DB制作:アマノケイ 音声提供者: 霧野蒼太』 · 『DB制作:おふとんP』 · 『御丹宮くるみ歌声データべース』 — for 東北きりたん歌唱データベース / 東北イタコ歌唱データベース (SSS LLC), 夏目悠李/男性歌声データベース (ATSUYA), おふとんP歌声データベース and 御丹宮くるみ歌声データべース; PJS (Koguchi & Takamichi; lyrics from 声優統計コーパス, 日本声優統計学会) is CC BY-SA 4.0.
 
 Audio generated with these weights is the 「出力音声」 (output voice) of the Natsume Yuuri DB and falls under 「夏目悠李の出力音声に関する利用規約」 (https://ksdcm1ng.wixsite.com/njksofficial/%E8%A6%8F%E7%B4%84-rules): commercial use needs separate permission, and generated audio must not be used to build acoustic or pitch models.
 
