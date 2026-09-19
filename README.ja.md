@@ -169,6 +169,10 @@ checkpoints/        （ダウンロードした .pt をここに置く）
 これらのデータを MIT で再ライセンスしたものでは**ありません**。商用利用の前に、各データセット自身のライセンスを
 確認してください。
 
+日本語データベースの規約が求めるクレジット（原文）：『©SSS』 · 『歌声DB制作:アマノケイ 音声提供者: 霧野蒼太』 · 『DB制作:おふとんP』 · 『御丹宮くるみ歌声データべース』 —— それぞれ 東北きりたん歌唱データベース／東北イタコ歌唱データベース（SSS合同会社）、夏目悠李/男性歌声データベース（ATSUYA）、おふとんP歌声DB、御丹宮くるみ歌声データべース に対応します。PJS（小口・高道。歌詞は声優統計コーパス／日本声優統計学会）は CC BY-SA 4.0 です。
+
+これらの重みで生成した音声は夏目悠李 DB の「出力音声」にあたり、「夏目悠李の出力音声に関する利用規約」（https://ksdcm1ng.wixsite.com/njksofficial/%E8%A6%8F%E7%B4%84-rules）が適用されます。商用利用には別途許諾が必要で、生成した音声を用いて音響モデルやピッチモデルを作ることはできません。
+
 ## コミュニティ
 
 - **QQ グループ：** [1058227212](https://qun.qq.com/universal-share/share?ac=1&authKey=3uD5AoM8e50y00vhOYOZsa2VI341dBNfr07S2IK9wraewz0rcFHpSzONYJ9QrTP7&busi_data=eyJncm91cENvZGUiOiIxMDU4MjI3MjEyIiwidG9rZW4iOiJONGpqQ2MzM3h3N3BDMVBMRzZiSUFOU05YWnRnbHBxdTZDUElZYlZOSGN3VnhCaEc5eWludlJBYlltK3hkdlFwIiwidWluIjoiMjc2Njc2NDM1NSJ9&data=VyWCaG06iaMLBFcfEx_fjE2Tme2X7YvJsUIUjJ51zk6XymaED6Z6TEC_zOvAdm9q2MbzbYbpuO4ukQHZ1GBHLw&svctype=4&tempid=h5_group_info)

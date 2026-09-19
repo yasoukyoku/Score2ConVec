@@ -163,6 +163,10 @@ checkpoints/        （把下载的 .pt 放这里）
 **M4Singer 为 CC BY-NC-SA 4.0**。发布的权重**并非**把这些数据重新以 MIT 授权。任何商业使用前，请先查阅每个
 数据集各自的许可证。
 
+日语数据库规约要求的署名(原文):『©SSS』 · 『歌声DB制作:アマノケイ 音声提供者: 霧野蒼太』 · 『DB制作:おふとんP』 · 『御丹宮くるみ歌声データべース』 —— 分别对应 東北きりたん歌唱データベース / 東北イタコ歌唱データベース(SSS 合同会社)、夏目悠李/男性歌声データベース(ATSUYA)、おふとんP歌声DB、御丹宮くるみ歌声データべース;PJS(小口・高道;歌词来自 声優統計コーパス / 日本声優統計学会)为 CC BY-SA 4.0。
+
+用这些权重生成的音频属于夏目悠李 DB 的「出力音声」,适用「夏目悠李の出力音声に関する利用規約」(https://ksdcm1ng.wixsite.com/njksofficial/%E8%A6%8F%E7%B4%84-rules):商用须另行取得许可,且不得用生成的音频制作音响模型或音高模型。
+
 ## 交流社群
 
 - **QQ 群：** [1058227212](https://qun.qq.com/universal-share/share?ac=1&authKey=3uD5AoM8e50y00vhOYOZsa2VI341dBNfr07S2IK9wraewz0rcFHpSzONYJ9QrTP7&busi_data=eyJncm91cENvZGUiOiIxMDU4MjI3MjEyIiwidG9rZW4iOiJONGpqQ2MzM3h3N3BDMVBMRzZiSUFOU05YWnRnbHBxdTZDUElZYlZOSGN3VnhCaEc5eWludlJBYlltK3hkdlFwIiwidWluIjoiMjc2Njc2NDM1NSJ9&data=VyWCaG06iaMLBFcfEx_fjE2Tme2X7YvJsUIUjJ51zk6XymaED6Z6TEC_zOvAdm9q2MbzbYbpuO4ukQHZ1GBHLw&svctype=4&tempid=h5_group_info)
