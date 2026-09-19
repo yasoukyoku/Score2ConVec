@@ -167,6 +167,8 @@ checkpoints/        （把下载的 .pt 放这里）
 
 用这些权重生成的音频属于夏目悠李 DB 的「出力音声」,适用「夏目悠李の出力音声に関する利用規約」(https://ksdcm1ng.wixsite.com/njksofficial/%E8%A6%8F%E7%B4%84-rules):商用须另行取得许可,且不得用生成的音频制作音响模型或音高模型。
 
+**许可立场。** 依照 Creative Commons 的指引——在很多情况下 AI 模型并不是其训练作品的改编物(https://creativecommons.org/using-cc-licensed-works-for-ai-training/)——我们不把这些权重视为上述 CC 语料的「改编素材(Adapted Material)」,因此 GTSinger / M4Singer(CC BY-NC-SA 4.0)与 PJS(CC BY-SA 4.0)的「相同方式共享(ShareAlike)」条件不附着于权重。尽管如此,权重仍**仅限非商业用途**发布并附上方署名:若干日语数据库的使用规约要求如此,而且我们尊重占训练数据约 94% 的语料的「非商业性使用(NonCommercial)」条款。
+
 ## 交流社群
 
 - **QQ 群：** [1058227212](https://qun.qq.com/universal-share/share?ac=1&authKey=3uD5AoM8e50y00vhOYOZsa2VI341dBNfr07S2IK9wraewz0rcFHpSzONYJ9QrTP7&busi_data=eyJncm91cENvZGUiOiIxMDU4MjI3MjEyIiwidG9rZW4iOiJONGpqQ2MzM3h3N3BDMVBMRzZiSUFOU05YWnRnbHBxdTZDUElZYlZOSGN3VnhCaEc5eWludlJBYlltK3hkdlFwIiwidWluIjoiMjc2Njc2NDM1NSJ9&data=VyWCaG06iaMLBFcfEx_fjE2Tme2X7YvJsUIUjJ51zk6XymaED6Z6TEC_zOvAdm9q2MbzbYbpuO4ukQHZ1GBHLw&svctype=4&tempid=h5_group_info)

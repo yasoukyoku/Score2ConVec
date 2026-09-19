@@ -173,6 +173,8 @@ checkpoints/        （ダウンロードした .pt をここに置く）
 
 これらの重みで生成した音声は夏目悠李 DB の「出力音声」にあたり、「夏目悠李の出力音声に関する利用規約」（https://ksdcm1ng.wixsite.com/njksofficial/%E8%A6%8F%E7%B4%84-rules）が適用されます。商用利用には別途許諾が必要で、生成した音声を用いて音響モデルやピッチモデルを作ることはできません。
 
+**ライセンス上の立場。** 多くの場合 AI モデルは学習に用いた著作物の翻案物ではない、とする Creative Commons の指針(https://creativecommons.org/using-cc-licensed-works-for-ai-training/)に沿い、これらの重みを上記 CC コーパスの「翻案物(Adapted Material)」とは扱いません。したがって GTSinger / M4Singer(CC BY-NC-SA 4.0)および PJS(CC BY-SA 4.0)の「継承(ShareAlike)」条件は重みには及びません。ただし重みは引き続き**非商用に限り**、上記クレジットを付けて公開します。いくつかの日本語データベースの利用規約がそれを求めており、また学習データの約 94% を占めるコーパスの「非営利(NonCommercial)」条件を尊重するためです。
+
 ## コミュニティ
 
 - **QQ グループ：** [1058227212](https://qun.qq.com/universal-share/share?ac=1&authKey=3uD5AoM8e50y00vhOYOZsa2VI341dBNfr07S2IK9wraewz0rcFHpSzONYJ9QrTP7&busi_data=eyJncm91cENvZGUiOiIxMDU4MjI3MjEyIiwidG9rZW4iOiJONGpqQ2MzM3h3N3BDMVBMRzZiSUFOU05YWnRnbHBxdTZDUElZYlZOSGN3VnhCaEc5eWludlJBYlltK3hkdlFwIiwidWluIjoiMjc2Njc2NDM1NSJ9&data=VyWCaG06iaMLBFcfEx_fjE2Tme2X7YvJsUIUjJ51zk6XymaED6Z6TEC_zOvAdm9q2MbzbYbpuO4ukQHZ1GBHLw&svctype=4&tempid=h5_group_info)

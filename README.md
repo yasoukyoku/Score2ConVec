@@ -170,6 +170,8 @@ Credits required by the Japanese databases' terms (verbatim): 『©SSS』 · 『
 
 Audio generated with these weights is the 「出力音声」 (output voice) of the Natsume Yuuri DB and falls under 「夏目悠李の出力音声に関する利用規約」 (https://ksdcm1ng.wixsite.com/njksofficial/%E8%A6%8F%E7%B4%84-rules): commercial use needs separate permission, and generated audio must not be used to build acoustic or pitch models.
 
+**Licence position.** Consistent with Creative Commons' guidance that in many cases an AI model is not an adaptation of the works it was trained on (https://creativecommons.org/using-cc-licensed-works-for-ai-training/), we do not treat these weights as Adapted Material of the CC-licensed corpora, so the ShareAlike conditions of GTSinger / M4Singer (CC BY-NC-SA 4.0) and PJS (CC BY-SA 4.0) do not attach to them. The weights are nevertheless released for **non-commercial use only**, with the attribution above: several Japanese databases' usage agreements require it, and we respect the NonCommercial terms of the corpora that make up about 94% of the training data.
+
 ## Community
 
 - **QQ group:** [1058227212](https://qun.qq.com/universal-share/share?ac=1&authKey=3uD5AoM8e50y00vhOYOZsa2VI341dBNfr07S2IK9wraewz0rcFHpSzONYJ9QrTP7&busi_data=eyJncm91cENvZGUiOiIxMDU4MjI3MjEyIiwidG9rZW4iOiJONGpqQ2MzM3h3N3BDMVBMRzZiSUFOU05YWnRnbHBxdTZDUElZYlZOSGN3VnhCaEc5eWludlJBYlltK3hkdlFwIiwidWluIjoiMjc2Njc2NDM1NSJ9&data=VyWCaG06iaMLBFcfEx_fjE2Tme2X7YvJsUIUjJ51zk6XymaED6Z6TEC_zOvAdm9q2MbzbYbpuO4ukQHZ1GBHLw&svctype=4&tempid=h5_group_info)
